@@ -21,7 +21,7 @@
     "stationapi:event_bus_server": [
       
     ],
-    "gcapi": [
+    "gcapi3": [
       "net.natsupotato.acidboy.AcidicBoyfriends"
     ]
   },
